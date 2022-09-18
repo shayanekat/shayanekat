@@ -6,8 +6,8 @@ I am a french student in aerospace engineering. I code mainly in python, but I c
 ![](https://github-readme-stats.vercel.app/api?username=shayanekat&show_icons=true&count_private=true&custom_title=activité%20sur%20Github&theme=tokyonight)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shayanekat&custom_title=langage%20utilisés&theme=tokyonight&layout=compact)
 
-![shayanekat github stats](https://github-readme-stats.vercel.app/api/top-langs?username=shayanekat&show_icons=true&theme=dark&langs_count=3)
-<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=shayanekat&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="shayanekat's github streak stats" />
+![shayanekat github stats](https://github-readme-stats.vercel.app/api/top-langs?username=shayanekat&show_icons=true&theme=tokyonight&langs_count=3)
+<img align="center" width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=shayanekat&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="shayanekat's github streak stats" />
 
 <br>
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+am+a+Python+developer.;I+am+improving+myself.;I+am+chasing+innovations+endlessly." alt="Typing SVG" /></a></p>
